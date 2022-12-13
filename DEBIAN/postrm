@@ -1,0 +1,4 @@
+#! /bin/bash
+if [ -d "/root/.config/TDesktop-app" ];then
+	rm -rf /root/.config/TDesktop-app
+fi

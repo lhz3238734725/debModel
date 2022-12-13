@@ -1,0 +1,9 @@
+package: Tdesktop-app
+Version: 1.0.0
+Section: software
+Priority: optional
+Architecture: amd64
+Depends:
+Installed-Size: 
+Maintainer: troila
+Description: 天津卓朗昆仑云软件技术有限公司-云桌面客户端 
