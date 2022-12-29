@@ -2,7 +2,7 @@
 Version=1.0
 Name=Tdesktop-app
 Comment= this app use for uos
-Exec=/opt/apps/Tdesktop-app-1.0/bin/TDesktop-app.sh %F
+Exec=/opt/apps/Tdesktop-app-1.0/bin/Tdesktop-app.sh %F
 Icon=/usr/share/icons/Tdesktop-app-troila.png
 Terminal=false
 Type=Application
